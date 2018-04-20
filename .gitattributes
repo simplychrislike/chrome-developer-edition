@@ -1,0 +1,29 @@
+.editorconfig     text      eol=lf
+.gitattributes    text      eol=lf
+.gitmodules       text      eol=lf
+.gitconfig        text      eol=lf
+.gitignore        text      eol=lf
+.gitkeep          text      eol=lf
+*.json            text      eol=lf
+*.md              text      eol=lf
+*.svg             text      eol=lf
+AUTHORS           text      eol=lf
+CHANGELOG         text      eol=lf
+CHANGES           text      eol=lf
+CONTRIBUTING      text      eol=lf
+COPYING           text      eol=lf
+INSTALL           text      eol=lf
+LICENSE           text      eol=lf
+readme            text      eol=lf
+*README*          text      eol=lf
+
+*.png             binary
+*.jpg             binary
+*.jpeg            binary
+*.ico             binary
+*.gif             binary
+*.pdf             binary
+*.psb             binary
+*.psd             binary
+*.tif             binary
+*.tiff            binary

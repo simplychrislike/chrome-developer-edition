@@ -1,0 +1,39 @@
+{
+  "manifest_version": 2,
+  "name": "Chrome Developer Edition",
+  "short_name": "Dev Theme",
+  "version": "1.0.0",
+  "offline_enabled": true,
+  "description": "Chrome version from the Firefox Developer Edition theme.",
+  "theme": {
+    "images": {
+      "theme_toolbar": "images/toolbar.png",
+      "theme_tab_background": "images/tab_background.png"
+    },
+    "colors": {
+      "frame": [12, 12, 13],
+      "frame_inactive": [12, 12, 13],
+      "frame_incognito": [12, 12, 13],
+      "frame_incognito_inactive": [12, 12, 13],
+
+      "toolbar": [50, 50, 52],
+
+      "tab_text": [255, 255, 255],
+      "tab_background_text": [180, 180, 180],
+      "bookmark_text": [255, 255, 255],
+
+      "ntp_background": [50, 50, 52],
+      "ntp_text": [192, 192, 192],
+      "ntp_link": [192, 192, 192]
+    },
+    "tints": {
+      "buttons": [-1, -1, -1],
+      "frame": [-1, -1, -1],
+      "toolbar": [-1, -1, -1],
+      "frame_inactive": [-1, -1, -1],
+      "frame_incognito_inactive": [-1, -1, -1],
+      "background_tab": [-1, -1, -1]
+    }
+  },
+  "author": "Christian Müller"
+}
